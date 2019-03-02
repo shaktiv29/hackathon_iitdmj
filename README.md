@@ -1,5 +1,5 @@
-#################################### MADE BY TEAM ODE TO CODE ################################################
-################################# HACKATHON BY IBM IN JABALPUR ###############################################
+MADE BY TEAM ODE TO CODE 
+HACKATHON BY IBM IN JABALPUR
 
 Features of Program =>
 
